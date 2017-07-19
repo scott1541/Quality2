@@ -6,3 +6,4 @@ target/
 *.log
 *.xml
 *.iml
+.idea/.name
